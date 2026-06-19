@@ -35,3 +35,7 @@ security-automation-scripts/
   python/
   sample-data/
   reports/
+
+## Disclaimer
+
+This repository uses lab-created and sanitized examples only. No employer, government, client, church, or sensitive data is included.
