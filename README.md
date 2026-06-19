@@ -1,4 +1,4 @@
-# security-automation-scripts
+
 # Security Automation Scripts
 
 ## Purpose
