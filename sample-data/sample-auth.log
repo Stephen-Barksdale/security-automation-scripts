@@ -1,0 +1,4 @@
+Jun 18 10:01:22 lab-server sshd[1024]: Failed password for invalid user admin from 192.168.1.50 port 52211 ssh2
+Jun 18 10:03:45 lab-server sshd[1025]: Accepted password for stephen from 192.168.1.20 port 52212 ssh2
+Jun 18 10:05:11 lab-server sudo: stephen : TTY=pts/0 ; PWD=/home/stephen ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 18 10:08:02 lab-server sshd[1028]: Failed password for root from 192.168.1.55 port 52220 ssh2
